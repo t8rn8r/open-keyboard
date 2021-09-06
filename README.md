@@ -11,3 +11,5 @@ Digital keyboards, MIDI controllers, and Organ keyboards (a.k.a. organ manuals) 
 
 # extra info
 It looks like a similar project gained a little ground here, but has lost its steam: http://diykeyboard.wikidot.com/
+
+Here's a nice summary of some alternate layouts: https://www.jefftk.com/p/hexagonal-keyboard-layout-survey
